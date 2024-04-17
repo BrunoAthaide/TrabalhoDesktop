@@ -22,6 +22,7 @@ Tela\Cliente$3.class
 Produto\ProdutoInterface.class
 Venda\VendaService.class
 Tela\Venda$2.class
+Venda\Venda.class
 Tela\Venda.class
 Produto\ProdutoDAO.class
 Tela\Venda$5.class
